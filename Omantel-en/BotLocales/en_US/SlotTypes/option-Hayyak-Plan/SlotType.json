@@ -1,0 +1,1 @@
+{"name":"option-Hayyak-Plan","identifier":"CJOTYPAUYD","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"Show me all plans"}},{"synonyms":[{"value":"Find me best plan"}],"sampleValue":{"value":"Help me choose plan"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}

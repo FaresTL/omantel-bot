@@ -1,0 +1,1 @@
+{"name":"optionrecharge","identifier":"BDZFSWZJHG","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"For someone else"}},{"synonyms":null,"sampleValue":{"value":"Recharge for me"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}

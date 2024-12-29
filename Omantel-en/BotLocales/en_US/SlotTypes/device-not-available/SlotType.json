@@ -1,0 +1,1 @@
+{"name":"device-not-available","identifier":"QL7UY6ME1A","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"Yes via SMS"}},{"synonyms":null,"sampleValue":{"value":"Yes via e-mail"}},{"synonyms":null,"sampleValue":{"value":"No thanks"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
